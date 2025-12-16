@@ -36,5 +36,6 @@ The generated site will be available in the `public/` directory.
 ## Project Structure
 
 - `config.toml` - Zola configuration file
+- `content/` - Markdown content files
 - `templates/` - HTML templates (using Tera templating engine)
 - `public/` - Generated site output (excluded from git)
