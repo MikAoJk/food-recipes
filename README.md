@@ -1,11 +1,9 @@
-# katte-fakta
+# Food recipes
 
-A simple website displaying random Norwegian cat facts, built with Zola static site generator.
+A simple website displaying food recipes, built with Zola static site generator.
 
 ## Technologies used
 * Zola (static site generator)
-* HTML/CSS (with Tailwind-inspired styles)
-* JavaScript (for random fact selection)
 
 ## Getting Started
 
