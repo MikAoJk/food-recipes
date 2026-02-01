@@ -3,33 +3,16 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mat oppskrifter</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
-    <div class="ui-sim-wrapper">
-        <div class="ui-sim-topbar">
-            <div class="ui-sim-dots">
-                <span class="ui-sim-dot"></span>
-                <span class="ui-sim-dot"></span>
-                <span class="ui-sim-dot"></span>
-            </div>
-            <div class="ui-sim-title">Mat oppskrifter</div>
-        </div>
-        <div class="ui-sim-screen">
-            <div class="wrapper">
-                
-                <main class="main">
-                    <div class="container">
-                        {% block content %} {% endblock content %}
-                    </div>
-                </main>
-                
-            </div>
-        </div>
+<section class="section">
+    <div class="container">
+        {% block content %} {% endblock content %}
     </div>
+</section>
 </body>
 
 </html>
