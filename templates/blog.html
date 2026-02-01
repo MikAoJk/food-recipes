@@ -4,13 +4,11 @@
 <h1 class="title">
   {{ section.title }}
 </h1>
-<div style="display: inline-block; text-align: left;">
-  <ul style="list-style-position: outside; padding-left: 1.5rem;">
-    <!-- If you are using pagination, section.pages will be empty.
-         You need to use the paginator object -->  
-    {% for page in section.pages %}
-    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<ul>
+  <!-- If you are using pagination, section.pages will be empty.
+       You need to use the paginator object -->  
+  {% for page in section.pages %}
+  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
 {% endblock content %}
