@@ -119,6 +119,27 @@ p {
     margin-bottom: 1rem;
 }
 
+/* Blog Content - Left-aligned for readability */
+.content {
+    text-align: left;
+}
+
+.content ul,
+.content ol {
+    list-style-position: outside;
+    padding-left: 2rem;
+    text-align: left;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+    text-align: left;
+}
+
 /* Links */
 a {
     color: var(--color-link);
