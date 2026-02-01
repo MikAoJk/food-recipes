@@ -12,8 +12,5 @@ build_search_index = true
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 
-# The default language
-default_language = "no"
-
 [extra]
 # Put all your custom variables here
