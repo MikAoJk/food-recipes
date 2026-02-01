@@ -3,16 +3,27 @@
 
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mat oppskrifter</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="{{ get_url(path='css/style.css') }}">
 </head>
 
 <body>
-<section class="section">
-    <div class="container">
-        {% block content %} {% endblock content %}
+    <div class="wrapper">
+        <header class="header">
+            <h1 class="site-title">Mat oppskrifter</h1>
+        </header>
+        
+        <main class="main">
+            <div class="container">
+                {% block content %} {% endblock content %}
+            </div>
+        </main>
+        
+        <footer class="footer">
+            <p>&copy; 2026 Mat oppskrifter</p>
+        </footer>
     </div>
-</section>
 </body>
 
 </html>
