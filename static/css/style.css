@@ -236,3 +236,94 @@ pre code {
         padding: 1rem;
     }
 }
+
+/* UI Simulator Styles */
+.ui-sim-wrapper {
+    max-width: 1200px;
+    margin: 2rem auto;
+    background: #1a1a1a;
+    border-radius: 24px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+
+.ui-sim-topbar {
+    background: linear-gradient(180deg, #2a2a2a 0%, #1e1e1e 100%);
+    padding: 0.75rem 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    border-bottom: 1px solid #333;
+}
+
+.ui-sim-dots {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.ui-sim-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #4a4a4a;
+}
+
+.ui-sim-dot:nth-child(1) {
+    background: #ff5f56;
+}
+
+.ui-sim-dot:nth-child(2) {
+    background: #ffbd2e;
+}
+
+.ui-sim-dot:nth-child(3) {
+    background: #27c93f;
+}
+
+.ui-sim-title {
+    color: #999;
+    font-size: 0.875rem;
+    font-weight: 500;
+    flex: 1;
+    text-align: center;
+    margin-right: 4rem;
+}
+
+.ui-sim-screen {
+    background: var(--color-bg);
+    min-height: 600px;
+    overflow: auto;
+}
+
+/* Responsive adjustments for UI simulator */
+@media (max-width: 768px) {
+    .ui-sim-wrapper {
+        margin: 1rem;
+        border-radius: 16px;
+    }
+    
+    .ui-sim-topbar {
+        padding: 0.5rem 1rem;
+    }
+    
+    .ui-sim-title {
+        font-size: 0.75rem;
+        margin-right: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .ui-sim-wrapper {
+        margin: 0;
+        border-radius: 0;
+        box-shadow: none;
+    }
+    
+    .ui-sim-topbar {
+        border-radius: 0;
+    }
+    
+    .ui-sim-screen {
+        min-height: calc(100vh - 45px);
+    }
+}
