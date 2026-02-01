@@ -1,40 +1,18 @@
-/* Modern, readable base theme */
-
-/* CSS Reset & Base Styles */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+.title {
+    text-align:center;
 }
 
-/* Global Typography */
-:root {
-    --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 
-                   'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 
-                   'Helvetica Neue', sans-serif;
-    --color-bg: #f5f7fa;
-    --color-text: #2d3748;
-    --color-heading: #1a202c;
-    --color-link: #3182ce;
-    --color-link-hover: #2c5282;
-    --color-border: #e2e8f0;
-    --color-card-bg: #ffffff;
-    --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    --radius: 8px;
-    --max-width: 800px;
+.container {
+    text-align:center;
 }
 
-body {
-    font-family: var(--font-family);
-    font-size: 16px;
-    line-height: 1.6;
-    color: var(--color-text);
-    background-color: var(--color-bg);
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+h1 {
+    text-align:center;
 }
 
-/* Wrapper and Layout Structure */
+ul {
+    text-align:center;
+}/* Wrapper and Layout Structure */
 .wrapper {
     min-height: 100vh;
     display: flex;
