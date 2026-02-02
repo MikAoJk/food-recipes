@@ -1,8 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="container">
-<h1>
+<h1 class="title">
   {{ section.title }}
 </h1>
 <ul>
@@ -12,5 +11,4 @@
   <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
   {% endfor %}
 </ul>
-</div>
 {% endblock content %}
