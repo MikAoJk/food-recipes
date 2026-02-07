@@ -1,6 +1,5 @@
 +++
 title = "Bananvafler med havre"
-date = 2026-02-07
 +++
 2 porsjoner
 ingredienser:
