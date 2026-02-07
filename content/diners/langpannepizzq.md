@@ -1,6 +1,5 @@
 +++
 title = "Langpanne pizza"
-date = 2025-12-16
 +++
 
 Dette trenger du til langpannepizza for 1 pizza
