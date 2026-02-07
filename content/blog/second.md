@@ -12,7 +12,7 @@ ingredienser:
 - 3 stk egg
 - 1 ss smør til steking
 
-Fremgangsmetode
+Fremgangsmetode:
 
 Denne oppskriften gir ca. 5 vaffelplater.
 
