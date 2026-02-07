@@ -1,6 +1,7 @@
 +++
 title = "Enkel sjokolademousse"
 +++
+4 porsjoner
 ingredienser:
 - 2 stk 100 gram mørk sjokolade
 - 2 ss melis
