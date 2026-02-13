@@ -9,7 +9,7 @@ Ingidienser:
 - sammal hvetemel 2 dl
 - salt 1 ts
 - olije 2 ss
-- gjær 1/2 pakke pizzagjør
+- 1/2 pakke tør pizzagjær
 - lunket vann 3 1/2 dl
 
 Fremgangsmetode:
