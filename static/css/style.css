@@ -9,3 +9,129 @@ li:last-child {
   margin-bottom: 0;
 }
 
+/* Header and Search Styles */
+.site-header {
+    background-color: #f5f5f5;
+    padding: 1rem;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 2rem;
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.site-title {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+}
+
+.site-title a {
+    color: #333;
+    text-decoration: none;
+}
+
+.site-title a:hover {
+    color: #555;
+}
+
+.search-container {
+    position: relative;
+    max-width: 600px;
+}
+
+.search-label {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+.search-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: #4CAF50;
+    box-shadow: 0 0 0 3px rgba(76, 175, 80, 0.1);
+}
+
+.search-status {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.search-error {
+    color: #d32f2f;
+}
+
+.search-results {
+    margin-top: 1rem;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.search-result {
+    padding: 1rem;
+    border-bottom: 1px solid #eee;
+}
+
+.search-result:last-child {
+    border-bottom: none;
+}
+
+.search-result-title {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.1rem;
+}
+
+.search-result-title a {
+    color: #1976d2;
+    text-decoration: none;
+}
+
+.search-result-title a:hover {
+    text-decoration: underline;
+}
+
+.search-result-snippet {
+    margin: 0;
+    color: #666;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+/* Responsive design for mobile */
+@media (max-width: 768px) {
+    .site-header {
+        padding: 0.75rem;
+    }
+
+    .site-title {
+        font-size: 1.25rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .search-input {
+        font-size: 0.9rem;
+        padding: 0.6rem 0.8rem;
+    }
+
+    .search-results {
+        max-height: 400px;
+    }
+}
+

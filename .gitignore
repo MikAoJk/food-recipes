@@ -2,4 +2,5 @@
 .gradle
 build
 .DS_Store
-public
+public*.tar.gz
+public/

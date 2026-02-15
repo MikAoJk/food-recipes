@@ -6,8 +6,10 @@ compile_sass = false
 
 default_language = "no"
 
-[search]
+# Build search index for client-side search
 build_search_index = true
+
+[search]
 index_format = "elasticlunr_json"
 include_title = true
 include_content = true
