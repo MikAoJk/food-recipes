@@ -2,6 +2,11 @@
 (function() {
     'use strict';
 
+    // Configuration
+    const MAX_SEARCH_RESULTS = 10;
+    const DEFAULT_LANGUAGE = 'no';
+    const DEBOUNCE_DELAY_MS = 300;
+
     let searchIndex = null;
     let searchIndexData = null;
 
@@ -29,7 +34,7 @@
 
             debounceTimer = setTimeout(() => {
                 performSearch(query);
-            }, 300);
+            }, DEBOUNCE_DELAY_MS);
         });
 
         // Handle keyboard navigation
@@ -45,29 +50,33 @@
     function loadSearchIndex() {
         // Determine the language-specific search index filename
         // Extract language code, handling cases like "nb-NO" -> "no"
-        let lang = document.documentElement.lang || 'no';
+        let lang = document.documentElement.lang || DEFAULT_LANGUAGE;
         // Take only the first part before any hyphen
         lang = lang.split('-')[0];
         
         // Get the base path from the current page URL
-        // Check if there's a base element in the HTML
-        const baseElement = document.querySelector('base');
-        let basePath = '/';
+        // Try to get it from a data attribute first, then fallback to detection
+        let basePath = document.documentElement.getAttribute('data-base-path');
         
-        if (baseElement && baseElement.href) {
-            // Extract path from base href
-            const baseUrl = new URL(baseElement.href);
-            basePath = baseUrl.pathname;
-        } else {
-            // Fallback: try to detect from current pathname
-            const pathname = window.location.pathname;
+        if (!basePath) {
+            // Check if there's a base element in the HTML
+            const baseElement = document.querySelector('base');
             
-            // Check if we're on a subpath (production) or root (development)
-            if (pathname.includes('/food-recipes/')) {
-                basePath = '/food-recipes/';
+            if (baseElement && baseElement.href) {
+                // Extract path from base href
+                const baseUrl = new URL(baseElement.href);
+                basePath = baseUrl.pathname;
             } else {
-                // For development, always use root
-                basePath = '/';
+                // Fallback: try to detect from current pathname
+                const pathname = window.location.pathname;
+                
+                // Check if we're on a subpath (production) or root (development)
+                if (pathname.includes('/food-recipes/')) {
+                    basePath = '/food-recipes/';
+                } else {
+                    // For development, always use root
+                    basePath = '/';
+                }
             }
         }
         
@@ -151,7 +160,7 @@
 
         showStatus(`${results.length} resultat${results.length > 1 ? 'er' : ''} for "${query}"`, false);
 
-        const resultsHTML = results.slice(0, 10).map(result => {
+        const resultsHTML = results.slice(0, MAX_SEARCH_RESULTS).map(result => {
             const doc = searchIndexData.documentStore.docs[result.ref];
             const title = doc.title || 'Uten tittel';
             const description = doc.description || '';
