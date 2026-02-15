@@ -4,15 +4,16 @@ base_url = "https://joakim-taule-kartveit.no/food-recipes"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
-
 default_language = "no"
 
 [search]
+build_search_index = true
 index_format = "elasticlunr_json"
 include_title = true
 include_content = true
+include_description = true
+truncate_content_length = 1000
+
 
 [markdown]
 

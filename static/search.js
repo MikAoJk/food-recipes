@@ -137,7 +137,7 @@ function initSearch() {
   var options = {
     bool: "AND",
     fields: {
-      title: {boost: 2},
+      title: {boost: 10},
       body: {boost: 1},
     }
   };
@@ -146,7 +146,6 @@ function initSearch() {
   
   var initIndex = async function () {
     if (index === undefined) {
-      this.use(lunr.no)
       index = fetch("/search_index.no.json")
         .then(
           async function(response) {
