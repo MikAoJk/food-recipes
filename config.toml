@@ -9,6 +9,11 @@ build_search_index = true
 
 default_language = "no"
 
+[search]
+index_format = "tinysearch"
+include_title = true
+include_content = true
+
 [markdown]
 
 [extra]
