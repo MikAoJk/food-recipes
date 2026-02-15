@@ -10,7 +10,7 @@ build_search_index = true
 default_language = "no"
 
 [search]
-index_format = "elasticlunr_javascript"
+index_format = "elasticlunr_json"
 include_title = true
 include_content = true
 
