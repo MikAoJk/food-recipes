@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="nb-NO">
+<html lang="{{ lang }}">
 
 <head>
     <meta charset="utf-8">
@@ -10,9 +10,31 @@
 </head>
 
 <body>
+<header class="site-header">
+    <div class="header-content">
+        <h1 class="site-title"><a href="{{ get_url(path='/') }}">Mat oppskrifter</a></h1>
+        <div class="search-container">
+            <label for="search-input" class="search-label">Søk etter oppskrifter</label>
+            <input 
+                type="search" 
+                id="search-input" 
+                class="search-input" 
+                placeholder="Søk etter oppskrifter..."
+                autocomplete="off"
+                aria-label="Søk etter oppskrifter"
+            />
+            <div id="search-status" class="search-status"></div>
+            <div id="search-results" class="search-results"></div>
+        </div>
+    </div>
+</header>
+
 <section class="section">
         {% block content %} {% endblock content %}
 </section>
+
+<script src="{{ get_url(path='elasticlunr.min.js', trailing_slash=false) }}"></script>
+<script src='{{ get_url(path="js/search.js", cachebust=true) | safe }}'></script>
 </body>
 
 </html>
