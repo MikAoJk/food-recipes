@@ -16,7 +16,7 @@ ingredienser:
 Fremgangsmetode:
 1. Kutt smør i terninger, og la det temperere seg litt mens deigen elter.
 2. Ha hvetemel, sukker, gjær, salt og kardemomme i en bakebolle til kjøkkenmaskin. Bruker du fersk gjær kan du smuldre gjæren i bollen, eller røre den ut i melken. Alt vil ettehvert blande seg godt, så begge deler er like bra.
-3. Spe med melk (kald eller romtemperert). Hold tilbake 1/2 dl, tilsett mer melk etter hvert hvis deigen virker for fast.
+3. Spe med melk (lunket). Hold tilbake 1/2 dl, tilsett mer melk etter hvert hvis deigen virker for fast.
 4. Sett en deigkrok i kjøkkenmaskinen og elt deigen i ca. 15 minutter.
 5. Tilsett smøret og elt deigen videre i ca. 10 minutter, til deigen er myk og elastisk. Ta gjerne "glutentesten" mot slutten av eltingen. Strekk en liten deigklump mellom fingrene og forsøk å få en tynn, gjennomsiktig hinne. Er deigen elastisk og smidig er den klar for heving, er den "kort" og revner - elt litt til.
 6. Kna rosiner godt inn i deigen.
