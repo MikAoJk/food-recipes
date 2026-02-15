@@ -23,4 +23,4 @@ Fremgangsmetode:
 7. Dekk deigen og sett den til heving på et lunt sted til den har hevet til dobbel størrelse, ca. 45-60 minutter.
 8. Del deigen i passe store emner. Du får ca. 24 boller av en porsjon deig. Trill runde boller.
 9. Sett bollene på en stekeplate dekket med bakepapir og sett dem til heving (20-30 minutter).
-10. Pensle bollene med egg og stek dem midt i ovnen ved 225 °C i 6–10 minutter. Avkjøl bollene på rist.
+10. Pensle bollene med egg og stek dem midt i ovnen ved 225 °C i 8 minutter. Avkjøl bollene på rist.
