@@ -146,7 +146,8 @@ function initSearch() {
   
   var initIndex = async function () {
     if (index === undefined) {
-      index = fetch("/search_index.en.json")
+      this.use(lunr.no)
+      index = fetch("/search_index.no.json")
         .then(
           async function(response) {
             return await elasticlunr.Index.load(await response.json());
