@@ -4,22 +4,11 @@
 <h1 class="title">
   Mat oppskrifter
 </h1>
-<div class="search-container">
-            <input type="text" id="search" placeholder="Søk...">
-            <div class="search-results">
-                <div class="search-results__items"></div>
-            </div>
-</div>
 <ul>
 <li><a href="{{ get_url(path='@/diners/_index.md') }}">Middager</a></li>
 <li><a href="{{ get_url(path='@/lunch/_index.md') }}">Lunsj</a></li>
 <li><a href="{{ get_url(path='@/dessert/_index.md') }}">Dessert</a></li>
 <li><a href="{{ get_url(path='@/pastries/_index.md') }}">Bakeverk</a></li>
 </ul>
-
-<script type="text/javascript" src="{{ get_url(path="elasticlunr.min.js") }}"></script>
-<script type="text/javascript" src="{{ get_url(path="search.js") }}"></script>
-<script type="text/javascript" src="{{ get_url(path="lunr.stemmer.support.js") }}"></script>
-<script type="text/javascript" src="{{ get_url(path="lunr.no.js") }}"></script>
 
 {% endblock content %}
