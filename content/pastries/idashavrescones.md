@@ -8,7 +8,7 @@ Ingidienser:
 - 2 dl havregryn
 - 3 dl hvetemel
 - 2 ts bakepulver
-- 1/2 all olije eller smør
+- 1/2 dl olije eller smør
 - 2 dl melk
 
 Fremgangsmetode:
