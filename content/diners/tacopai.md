@@ -4,7 +4,8 @@ title = "Taco pai"
 
 Passer til 5-6 personer
 
-Ingidienser:
+Ingredienser:
+
 Paideigen:
 - 4 dl hvetemel
 - 1/2 ts salt
@@ -36,4 +37,4 @@ Fremgangsmetode:
 6. Steik midt i ovenen på 250 grader i ca 15 min
 
 Tips:
-Gjerne server med salat til.
+Gjerne server med salat til
