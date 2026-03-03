@@ -1,5 +1,5 @@
 +++
-title = "Hamburger"
+title = "Hjemmelaget hamburger"
 +++
 
 Dette er for 4 personer
