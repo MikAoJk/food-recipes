@@ -1,5 +1,5 @@
 +++
-title = "Gladkokkens Lasagne "
+title = "Gladkokkens Lasagne"
 +++
 
 6 porsjoner 
