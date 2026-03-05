@@ -1,6 +1,5 @@
 +++
-title = "Hemmelig kjøttdeig (Eli spesial)
-"
+title = "Hemmelig kjøttdeig (Eli spesial)"
 +++
 
 
