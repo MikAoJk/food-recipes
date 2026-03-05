@@ -2,8 +2,6 @@
 title = "Sandnøtter (julekaker)"
 +++
 
-Dette trenger du til grov langpannepizza for 1 pizza
-
 Ingidienser:
 - 125 gr Margarin 
 - 125 gr Sukker 
