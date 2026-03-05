@@ -35,3 +35,6 @@ zola build
 ```
 
 The generated site will be available in the `public/` directory.
+
+# Live page
+https://www.joakim-taule-kartveit.no/food-recipes/
