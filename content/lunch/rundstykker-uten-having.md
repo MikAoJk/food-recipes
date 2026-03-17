@@ -9,7 +9,8 @@ Ingidienser:
 - 1 ts salt
 - 1 pk tørrgjær
 - 8 dl hvetemel
-- 1 egg til pensling Valmuefrø el lignend
+- 1 egg til pensling
+- Valmuefrø el lignend
 
 Fremgangsmetode:
 Smelt smøret og rør inn melk/vann til det er fingervarmt.
