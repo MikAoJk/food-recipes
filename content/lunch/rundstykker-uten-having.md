@@ -5,7 +5,8 @@ title = "Rundstykker uten heving"
 Oppskriften gir 8 stk rundstykker
 
 Ingidienser:
-- 2 ss smør 4 dl melk eller vann
+- 2 ss smør
+- 4 dl melk eller vann
 - 1 ts salt
 - 1 pk tørrgjær
 - 8 dl hvetemel
