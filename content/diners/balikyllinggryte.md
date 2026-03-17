@@ -11,7 +11,8 @@ Ingidienser:
 - 2 paprikaer, grovhakka
 - 3-4 gulrøter, grovhakka
 - 3 ts karrikrydder
-- 1 ts paprikapulver 150 g creme fraiche
+- 1 ts paprikapulver
+- 150 g creme fraiche
 - 8 dl kylingkraft (eller vatn med buljong/fond)
 - 175 g jasminris
 - 1 liten boks ananasbitar
