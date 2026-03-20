@@ -1,4 +1,3 @@
-// Add this to your base template or a custom JS file
 if ('wakeLock' in navigator) {
   let wakeLock = null;
   const requestWakeLock = async () => {
