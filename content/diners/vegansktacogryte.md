@@ -6,7 +6,7 @@ Oppskriften gir ca 2 personer
 
 Ingidienser:
 - 1 kartong sorte bønner (230 gram)
-- 1 kartong kidneybønner(230 gram)
+- 1 kartong kidneybønner (230 gram)
 - 2 paprika, grovhakka
 - 1 bunt vårløk, grovhakka
 - 1 liten boks mais
