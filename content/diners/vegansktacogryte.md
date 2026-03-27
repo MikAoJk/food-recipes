@@ -12,8 +12,8 @@ Ingidienser:
 - 1 liten boks mais
 - 400 gram hakka tomater
 - 1-2 ts tomatpure
-- 3 dl grønnsakskraft
-- 2-3 ss tacokrydder
+- 2 dl grønnsakskraft
+- 2 ss tacokrydder
 
 
 Fremgangsmetode:
