@@ -2,7 +2,9 @@
 title = "Proteinrik sjokoladekrem"
 +++
 
-Du trenger, 2 porsjoner: 
+2 porsjoner
+
+ingredienser:
 - 1 beger, 400 g cottage cheese (eg anbefale original og ikkje mager)
 - 2-3 ss kakaopulver (smak til)
 - 3-6 ss valgfri søtning (smak til), eg bruker sukrin+
