@@ -9,7 +9,8 @@ Ingidienser:
 - 4 dl melk eller vann
 - 1 ts salt
 - 1 pk tørrgjær
-- 8 dl hvetemel
+- 5 dl hvetemel
+- 3 dl grovt mel
 - 1 egg til pensling
 - Valmuefrø el lignend
 
