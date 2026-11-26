@@ -5,7 +5,6 @@ title = "Smuldrepai med blåbær og havregryn"
 8 porsjoner
 
 Ingredienser:
-Smuldretopp:
 - 100 g brunt sukker, eller bruk det sukkeret du har
 - 50 g havregryn
 - 100 g hvetemel
