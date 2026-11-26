@@ -13,5 +13,7 @@ Ingidienser:
 - 1 kg hvetemel
 
 Fremgangsmetode:
-La deigen heve ca 30 min. Elt deigen, form den til brød. Etterhev ca 20 min.
-Stekes på 225 grader, demp straks til 200 grader og la dem steke i 30 min.
+1. La deigen heve ca 30 min. 
+2. Elt deigen, form den til brød. 
+3. Etterhev ca 20 min.
+4. Stekes på 225 grader, demp straks til 200 grader og la dem steke i 30 min.

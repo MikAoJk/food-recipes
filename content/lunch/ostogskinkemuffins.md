@@ -1,8 +1,9 @@
 +++
 title = "Ost- og skinkemuffins"
 +++
+
 10 porsjoner 
-ingredienser:
+Ingredienser:
 - 3 dl hvetemel
 - 2 dl sammalt hvete, grov
 - 2 ts bakepulver

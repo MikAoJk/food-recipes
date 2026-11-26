@@ -16,8 +16,7 @@ Ingidienser:
 - Eventuelt ris til servering
 
 Fremgangsmetode:
-Kutt løk i små biter, og stek løken i en gryte sammen med kjøttdeigen. Tilsett kuttet paprika i biter, tomatbønner, hakkede tomater og kraft.
-
-Tilsett chilipulver etter ønske og timian.
-
-Kok opp og la det småputre i noen minutter før du skrur ned varmen og lar den stå å småputre i minimum 20 minutter før du serverer
+1. Kutt løk i små biter, og stek løken i en gryte sammen med kjøttdeigen.
+2. Tilsett kuttet paprika i biter, tomatbønner, hakkede tomater og kraft.
+3. Tilsett chilipulver etter ønske og timian.
+4. Kok opp og la det småputre i noen minutter før du skrur ned varmen og lar den stå å småputre i minimum 20 minutter før du serverer
