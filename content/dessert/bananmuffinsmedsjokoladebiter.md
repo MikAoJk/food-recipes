@@ -2,7 +2,7 @@
 title = "Bananmuffins med sjokoladebiter"
 +++
 
-12 muffins
+12 muffins En muffins inneholder ca 200 kalorier.
 
 Ingredienser:
 - 3 godt modne bananer
@@ -24,5 +24,4 @@ Fremgangsmetode:
 3. Hakk sjokoladen i biter og tilsett i røren. 
 4. Fordel muffinsrøren i former. 
 5. stek muffinsene på 180 grader i 12-15 minutter. 
-
-Avkjøl og nyt. En muffins inneholder ca 200 kalorier. 
+6. Avkjøl og nyt.

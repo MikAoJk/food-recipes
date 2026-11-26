@@ -15,14 +15,9 @@ ingredienser:
 - ca. 2 ss sesamfrø til pynt
 
 Fremgangsmetode:
-1. Ha mel, salt, sukker, vann og olje i en bakebolle. Smuldre i gjæren og elt deigen godt til den slipper kantene. 
-
+1. Ha mel, salt, sukker, vann og olje i en bakebolle. Smuldre i gjæren og elt deigen godt til den slipper kantene.
 2. Dekk til bakebollen, og la deigen heve til dobbel størrelse, ca. 30 minutter.
-
-3. Ta deigen ut på et lett melet bakebord. Del den i 12 like store emner. Trill hvert emne til en bolle. Legg dem på et stekebrett med bakepapir. 
-
+3. Ta deigen ut på et lett melet bakebord. Del den i 12 like store emner. Trill hvert emne til en bolle. Legg dem på et stekebrett med bakepapir.
 4. Dekk rundstykkene med et klede, og la etterheve til dobbel størrelse, ca. 30 minutter.
-
 5. Pensle dem lett med sammenvispet egg, og dryss sesamfrø på.
-
 6. Sett inn stekebrettet på midterste rille i stekeovnen på 220 °C og stek i ca. 10 minutter.  Avkjøl på rist.

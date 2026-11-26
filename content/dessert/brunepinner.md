@@ -20,7 +20,6 @@ Pensling og dryss:
 - 1 dl hakkede mandler
 
 Fremgangsmetode:
-
 1. Rør romtemperert smør og sukker luftig og hvitt i en kjøkkenmaskin, eller med håndmikser.
 2. Ha i eggeplomme og sirup.
 3. Vend inn resten av de tørre ingrediensene, men hold igjen litt av melet for justering underveis. Elt deigen raskt sammen

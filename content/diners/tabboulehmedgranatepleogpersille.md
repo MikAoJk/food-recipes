@@ -17,4 +17,7 @@ Ingidienser:
 - pepper
 
 Fremgangsmetode:
-1. Rens granateplet. Skjær agurk og tomater i små biter. Hakk persille og mynte. Bland alt sammen og smak til med sitronsaft, olje, salt og kvernet pepper.
+1. Rens granateplet. 
+2. Skjær agurk og tomater i små biter. 
+3. Hakk persille og mynte. 
+4. Bland alt sammen og smak til med sitronsaft, olje, salt og kvernet pepper.

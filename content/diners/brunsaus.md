@@ -11,8 +11,6 @@ Ingidienser:
 - 0,25 ts salt
 - 0,13 ts pepper
 
-
-
 Fremgangsmetode:
 1. Smelt og brun smøret. Tilsett hvetemel og brun over svak varme til blandingen får en nøttebrun farge
 2. Spe med varm kraft eller buljong, og rør godt mellom hver gang du sper.

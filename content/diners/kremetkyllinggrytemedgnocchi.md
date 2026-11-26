@@ -24,5 +24,5 @@ Alt lages i en gryte.
 5. Tilsett gulrøtter, brokkorli og erter, og la det småkoke til grønnsakene begynner å bli møre
 6. Ha i gnocchi og den stekte kyllingen
 7. Smak til med krydder og topp med revet parmesan
-8. 
+
 Tips: hvis du ønsker tykkere saus, rør ut 1 ss maizena i 2 ss kaldt vann og tilsett litt av gangen mens gryten småkoker til du får ønsket konsistens. 

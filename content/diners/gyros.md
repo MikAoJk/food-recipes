@@ -4,7 +4,7 @@ title = "Gyros"
 4 porsjoner
 
 Ingidienser:
-- 500 g svinenakke , ytrefilet av svin, storfe, flatbiff av lam eller sau, eventuelt rester av lammestek
+- 500 g svinenakke, ytrefilet av svin, storfe, flatbiff av lam eller sau, eventuelt rester av lammestek
 Marinade:
 - 1 stk. løk
 - 2 båter hvitløk

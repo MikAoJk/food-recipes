@@ -9,15 +9,15 @@ ingredienser:
 - 2 dl isbiter
 
 Pynt:
-- pisket krem (søtet med litt vaniljesukker)
-- sjokoladesaus
+- Pisket krem (søtet med litt vaniljesukker)
+- Sjokoladesaus
 
 Fremgangsmetode:
 1. Finn frem en blender (husk at den må være kraftig nok til å kunne knuse isbiter, se tips). Ha i kald espresso (vanlig sterk kaffe går også bra).
 2. Tilsett melk.
 3. Og deretter sukker.
 4. Sjokoladesaus
-5. Tilsett masse isbiter!!
+5. Tilsett masse isbiter
 6. Kjør til isbitene er helt finknuste og iskaffen slushaktig.
 7. Hell iskaffen på glass og pynt med en klatt pisket krem og sjokoladesaus.
 

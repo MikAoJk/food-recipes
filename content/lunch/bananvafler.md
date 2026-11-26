@@ -3,6 +3,7 @@ title = "Bananvafler med havre"
 +++
 
 2 porsjoner gir ca. 5 vaffelplater.
+
 ingredienser:
 - 2 stk bananer
 - 3 og 1/2 dl havregryn

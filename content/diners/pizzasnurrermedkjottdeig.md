@@ -26,7 +26,6 @@ Kjøttfyll:
 - 5 dl revet hvitost
 
 Fremgangsmetode:
-
 1. Rør gjær ut i vann og tilsett olje, mel og salt. Elt deigen godt sammen og la den heve til dobbel størrelse.
 2. Brun kjøttdeig i olje på sterk varme i to omganger. Ha all kjøttdeigen tilbake i stekepanna. Tilsett løk, hvitløk, tomater, tomatpuré, salt, pepper og vann. La kjøttsausen småkoke i ca. 10 minutter til den tykner. Dryss over basilikum. Avkjøl sausen til pizzadeigen er ferdig hevet.
 3. Kjevle deigen på et stekebrett til en avlang firkant, ca. 30x50 cm. Smør kjøttsausen utover og rull sammen deigen til en pølse.

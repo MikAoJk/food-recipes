@@ -13,6 +13,8 @@ Ingidienser:
 - lunket vann 3 1/2 dl
 
 Fremgangsmetode:
-Bland sammen de tørre ingrediensene, tilsett vann og olje. Elt deigen i kjøkkenmaskin (på medium hastighet) i ca. 10 minutter eller elt for hånd til deigen er smidig og glatt. La deigen heve til dobbel størrelse.
-
-Stek pizzaen midt i ovnen på 225 grader i ca. 15-20 minutter, til osten er gylden.
+1. Bland sammen de tørre ingrediensene
+2. tilsett vann og olje. 
+3. Elt deigen i kjøkkenmaskin (på medium hastighet) i ca. 10 minutter eller elt for hånd til deigen er smidig og glatt.
+4. La deigen heve til dobbel størrelse.
+5. Stek pizzaen midt i ovnen på 225 grader i ca. 15-20 minutter, til osten er gylden.
